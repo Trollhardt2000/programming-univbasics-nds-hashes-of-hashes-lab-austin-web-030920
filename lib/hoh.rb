@@ -31,5 +31,7 @@
  }
  
 def naming_system
-  
+  name_hash  = {
+    PORTION_1, sub_category: PORTION_2, sub_category: PORTION_3, PORTION_4
+  }
 end
