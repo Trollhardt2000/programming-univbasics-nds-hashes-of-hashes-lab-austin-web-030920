@@ -31,5 +31,5 @@
  }
  
 def naming_system
-  PORTION_1 + PORTION_2
+  new_hash = PORTION_1
 end
