@@ -31,5 +31,6 @@
  }
  
 def naming_system
-  name_hash  = PORTION_1 + {sub_category: PORTION_2[label], sub_category: PORTION_3[label], PORTION_4
+  name_hash  = PORTION_1 + 
+  PORTION_1[:sub_category][:sub_category] << {sub_category: PORTION_2},
 end
